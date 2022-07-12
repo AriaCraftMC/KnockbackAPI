@@ -1,0 +1,5 @@
+name: KnockbackAPI
+version: '${project.version}'
+main: me.sakuratao.knockbackapi.KBAPI
+api-version: 1.19
+authors: [ SakuraTao ]
